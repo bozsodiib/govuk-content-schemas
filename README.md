@@ -1,4 +1,4 @@
-# GOV.UK content schemas
+# GOV.UK content schemas.
 
 This repo contains schemas and examples of the content formats used on GOV.UK.
 
